@@ -13,7 +13,6 @@ I build high-performance websites with a focus on speed, clean code, and convert
 ### 🌐 Find me online:
 - **Portfolio & Blog:** [lairsbug.netlify.app](https://lairsbug.netlify.app)
 [lairsbug-blogs.netlify.app](https://lairsbug-blogs.netlify.app) 
-- **Freelancer:** [freelancer.com/u/lairsbug](https://www.freelancer.com/u/lairsbug)
 - **Chess.com:** [lairsbug](https://www.chess.com/member/lairsbug)
 
 ---
